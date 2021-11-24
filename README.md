@@ -1,2 +1,2 @@
 # AR-808
-SparkAR drum machine inspired by TR-808.
+AR drum machine (step sequencer) inspired by TR-808.
